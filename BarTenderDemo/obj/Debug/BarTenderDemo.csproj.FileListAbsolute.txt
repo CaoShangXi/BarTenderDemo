@@ -1,0 +1,11 @@
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\bin\Debug\BarTenderDemo.exe.config
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\bin\Debug\BarTenderDemo.exe
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\bin\Debug\BarTenderDemo.pdb
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.csproj.AssemblyReference.cache
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.Form1.resources
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.Properties.Resources.resources
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.csproj.GenerateResource.cache
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.csproj.CoreCompileInputs.cache
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.exe
+C:\Users\cao\source\repos\BarTenderDemo\BarTenderDemo\obj\Debug\BarTenderDemo.pdb
